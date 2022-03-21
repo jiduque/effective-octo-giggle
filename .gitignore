@@ -1,0 +1,7 @@
+*.pdf
+*.txt
+
+
+.idea
+
+__pycache__/
